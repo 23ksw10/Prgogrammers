@@ -8,6 +8,7 @@
 #include<sys/syscall.h>
 #include<stdint.h>
 #include<signal.h>
+#include<iostream>
 
 
 #define ROW (50)
